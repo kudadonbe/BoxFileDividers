@@ -1,0 +1,26 @@
+[
+  {
+    "stage": 1,
+    "label": "PRF – Pending Quotations",
+    "color": "#1E88E5",
+    "description": "Submitted requests waiting for supplier quotations."
+  },
+  {
+    "stage": 2,
+    "label": "PO Sent – Awaiting Delivery",
+    "color": "#FDD835",
+    "description": "Purchase Orders sent to vendors; goods/services not yet delivered."
+  },
+  {
+    "stage": 3,
+    "label": "Partially Received – Awaiting Balance",
+    "color": "#FB8C00",
+    "description": "Items/services received in part. Pending full delivery."
+  },
+  {
+    "stage": 4,
+    "label": "Goods/Services Received – Pending Payment",
+    "color": "#43A047",
+    "description": "Goods/services fully received. Bills pending or under payment processing."
+  }
+]
