@@ -6,6 +6,42 @@
     "description": "Submitted requests waiting for supplier quotations."
   },
   {
+    "stage": 1.1,
+    "label": "PRF – Agubalaa Started",
+    "color": "#90CAF9",
+    "description": "Prices collected via phone, website, or in-person. Internal Agubalaa form used."
+  },
+  {
+    "stage": 1.2,
+    "label": "PRF – QR Sent to Vendors",
+    "color": "#64B5F6",
+    "description": "Quotation Request sent directly to selected vendors."
+  },
+  {
+    "stage": 1.3,
+    "label": "PRF – Iulaan Published",
+    "color": "#42A5F5",
+    "description": "Public advertisement (Iulaan) published to invite quotations."
+  },
+  {
+    "stage": 1.4,
+    "label": "PRF – Vendor Quotations Received",
+    "color": "#2196F3",
+    "description": "Quotations received from vendors. Preparing for price comparison."
+  },
+  {
+    "stage": 1.5,
+    "label": "PRF – Price Finalized, PO Preparation",
+    "color": "#1E88E5",
+    "description": "Best quotation selected or price confirmed. PO is being prepared."
+  },
+  {
+    "stage": 1.6,
+    "label": "PRF – On Hold: Spec/Qty Change",
+    "color": "#1565C0",
+    "description": "Request temporarily paused due to changes in quantity or specifications. Waiting for clarification before continuing."
+  },
+  {
     "stage": 2,
     "label": "PO Sent – Awaiting Delivery",
     "color": "#FDD835",

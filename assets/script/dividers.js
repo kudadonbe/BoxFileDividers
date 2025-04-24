@@ -21,7 +21,7 @@ function renderDividers(dividers) {
     const desc = clone.querySelector('.desc');
 
     title.textContent = div.label;
-    title.style.backgroundColor = div.color;
+    // title.style.backgroundColor = div.color;
     desc.textContent = div.description;
 
     body.appendChild(clone);
